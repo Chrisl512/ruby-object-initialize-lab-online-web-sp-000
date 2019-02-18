@@ -8,5 +8,3 @@ class Dog
   end
 
   def namne(name)
-    
-    
